@@ -29,7 +29,7 @@ triangle.mytriange();
 //Casting cast;
 //	circle mycircle;
 //myhomework.studentGrades();
-	string home = "My home";
+	//string home = "My home";
 	//reverseString rit;
 
 	//student_grades();
